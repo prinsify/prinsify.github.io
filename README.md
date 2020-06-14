@@ -2,4 +2,4 @@
 
 Prinsify - print safe, easy and simple from Android on the printer connected to your PC.
 
-Download [Android Print Service](https://play.google.com/store/apps/details?id=com.prinsify.printservice)
+Download [Android Print Server](https://github.com/prinsify/prinsify.github.io/releases/download/v1.0.0.2/PrinsifyServerSetup_1.0.0.2.exe)
